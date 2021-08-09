@@ -1,2 +1,2 @@
-# License-Plate-Recognition
+# licensePlateRecognition
 CNN &amp; OCR
